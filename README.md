@@ -13,11 +13,12 @@ A repository of algorithmic problem-solving techniques categorized by approach.
 
 Technique/
 ├── Sliding Window/
-│ ├──SlidingWindow.h
-  ├──main.cpp
+│   ├── SlidingWindow.h
+│   ├── main.cpp
 ├── Dynamic Programming/
-│ ├── Dp.h
-  ├──main.cpp
+│   ├── Dp.h
+│   ├── main.cpp
+
 
 
 

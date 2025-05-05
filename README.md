@@ -13,9 +13,11 @@ A repository of algorithmic problem-solving techniques categorized by approach.
 
 Technique/
 ├── Sliding Window/
-│ ├── [Sliding Window problems]
+│ ├──SlidingWindow.h
+  ├──main.cpp
 ├── Dynamic Programming/
-│ ├── [Dynamic Programming problems]
+│ ├── Dp.h
+  ├──main.cpp
 
 
 
@@ -27,7 +29,7 @@ Technique/
 
 This folder contains solutions for problems utilizing the **sliding window** technique, including:
 
-- [Add list of problem names if you'd like]
+
 
 ---
 

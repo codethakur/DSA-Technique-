@@ -54,7 +54,6 @@ This folder includes solutions covering various types of **Dynamic Programming**
 ✅ **Subset/Knapsack DP**  
 ✅ **DP on Strings**  
 ✅ **DP on Subsequences**  
-✅ **DP with Bitmasking**
 
 Each solution includes a `.cpp` file (and optional `.h` header files) for clarity and modularity.
 

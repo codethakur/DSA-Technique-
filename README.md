@@ -22,6 +22,7 @@ Technique/
 
 
 
+
 ---
 
 ## 🚀 Contents
@@ -30,7 +31,14 @@ Technique/
 
 This folder contains solutions for problems utilizing the **sliding window** technique, including:
 
-
+- **Count Occurrences of Anagrams in a String** → Sliding window + hashmap
+- **Maximum of All Subarrays of Size K** → Sliding window + deque (list)
+- **Largest Subarray with Sum K (Positive Integers)** → Sliding window
+- **Largest Subarray with Sum K (Including Negative Integers)** → Prefix sum + hashmap
+- **Count Number of Subarrays with Sum Equal to K** → Prefix sum + hashmap
+- **Longest Substring with Exactly K Unique Characters** → Sliding window + hashmap
+- **Length of Longest Substring Without Repeating Characters** → Sliding window + hashmap (fixed + variable size window)
+- **Minimum Window Substring Containing All Characters of Another String** → Sliding window + hashmap (returning length & returning substring)
 
 ---
 
